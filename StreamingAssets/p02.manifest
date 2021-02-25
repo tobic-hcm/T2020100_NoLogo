@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 169243643
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8126ebbf184faffe8d82cb35df514dfd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 862c161c1e3bb19b1de09a53c16f476d
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Points/p02.png
+Dependencies: []
